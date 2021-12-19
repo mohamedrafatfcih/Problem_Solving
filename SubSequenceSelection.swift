@@ -32,7 +32,6 @@ func max(_ a: Int, _ b: Int) -> Int {
 }
 
 var s = [6, 4, 2, 7, 8, 8, 3, 4, 6, 7]
-var memoList: [Int] = Array(repeating: -1, count: (s.count + 1))
 let lss = longestSubSequence(&s, 0, 0)
 print(lss)
 
