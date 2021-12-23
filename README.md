@@ -17,3 +17,10 @@ Problems solved using various solution techniques (iterative, recursive, dynamic
  - Solution:
    - Dynamic Programming:
         - Memoization.
+
+## Coin Change
+- You want to change amout n using m types of coins.
+- ex. coins = [5, 3, 7, 2].
+- Solution:
+  - Dynamic Programming:
+      - Memoization.
